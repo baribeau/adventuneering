@@ -205,3 +205,6 @@ This theme is licensed under the [MIT license](https://opensource.org/licenses/m
 [jekyll-feed]: https://github.com/jekyll/jekyll-feed
 [highlight-js]: https://github.com/highlightjs/highlight.js
 [photoswipe-5]: https://photoswipe.com/
+
+
+Note to self on how to implement lazy loading: https://imagekit.io/blog/lazy-loading-images-complete-guide/
