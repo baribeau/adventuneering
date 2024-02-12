@@ -24,8 +24,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Adventuneering
-email: adventuneering@gmail.com
+title: Adventure Engineering
+email: ''
 author: Julia Baribeau
 
 # Copyright setting
@@ -43,8 +43,8 @@ author: Julia Baribeau
 copyright: "Copyright (c) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Adventuneering: a blog dedicated to sharing inspiring examples of innovation 
-  and problem-solving, big or small, spotted anywhere in the world.
+  Adventure Engineering: a blog dedicated to sharing inspiring examples of climate innovation 
+  and resilient problem-solving, from anywhere in the world.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
@@ -148,6 +148,7 @@ translate_langs:
 # Greyscales
 richblack: "#020404"
 eerieblack: "#1c2121"
+gunmetal: "#394141"
 dimgrey: "#687575"
 silver: "#afb7b7"
 seasalt: "#f6f8f8"
@@ -163,7 +164,7 @@ mindaro: "#e9f5a8"
 # Gradient red-pinks
 rosered: "#b9314f"
 cerise: "#ca536b"
-rosepompadour: "#da7587"
+rosepompadour: "#e08d9a"
 mistyrose: "#f0d2d1"
 
 # Accent colours if needed
@@ -218,8 +219,8 @@ header_pages:
 # Page default value
 defaults:
   home:
-    heading: "Welcome to Adventuneering"
-    subheading: "Sharing inspiration."
+    heading: "Welcome to Adventure Engineering!" 
+    subheading: "Let's explore solutions together."
     banner: "/assets/images/banners/oldtrike.png"
 
 # Banner default settings
@@ -265,10 +266,10 @@ photo_previewer:
 click_to_top:
   light:
     background_color: seasalt
-    color: "#454545"
+    color: dimgrey
   dark:
-    background_color: "#34323d"
-    color: "#bbb"
+    background_color: cerise
+    color: silver
 
 # Disqus comments
 # disqus:
