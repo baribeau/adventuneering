@@ -1,26 +1,71 @@
 # Translate languages
 # langs refer to https://cloud.google.com/translate/docs/languages
 
-- lang: en
-  img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
-  text: English
+translate_langs:
+  - lang: en
+    #img: https://cdn.countryflags.com/thumbs/england/flag-400.png
+    text: English
 
-- lang: fr
-  img: https://cdn.countryflags.com/thumbs/france/flag-400.png
-  text: French
+  - lang: fr
+    #img: https://cdn.countryflags.com/thumbs/france/flag-400.png
+    text: Français
 
-- lang: zh-CN
-  img: https://cdn.countryflags.com/thumbs/china/flag-400.png
-  text: Chinese(Simple)
+  - lang: hi
+    #img: https://cdn.countryflags.com/thumbs/india/flag-400.png
+    text: हिंदी
 
-- lang: ja
-  img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
-  text: Japanese
+  - lang: ne
+    #img: https://cdn.countryflags.com/thumbs/nepal/flag-400.png
+    text: नेपाली
 
-- lang: ko
-  img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
-  text: Korean
+  - lang: id
+    #img: https://cdn.countryflags.com/thumbs/indonesia/flag-400.png
+    text: Bahasa Indonesia
 
-- lang: ru
-  img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
-  text: Russian
+  - lang: ms
+    #img: https://cdn.countryflags.com/thumbs/malaysia/flag-400.png
+    text: Bahasa Malaysia
+
+  - lang: tl
+    #img: https://cdn.countryflags.com/thumbs/philippines/flag-400.png
+    text: Tagalog
+
+  - lang: km
+    #img: https://cdn.countryflags.com/thumbs/cambodia/flag-400.png
+    text: ខ្មែរ
+
+  - lang: th
+    #img: https://cdn.countryflags.com/thumbs/thailand/flag-400.png
+    text: ไทย
+
+  - lang: vi
+    #img: https://cdn.countryflags.com/thumbs/vietnam/flag-400.png
+    text: Tiếng Việt
+
+  - lang: ko
+    #img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
+    text: 한국어
+
+  - lang: zh
+    #img: https://cdn.countryflags.com/thumbs/china/flag-400.png
+    text: 中文-简体
+
+  - lang: ja
+    #img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
+    text: 日本語
+
+  - lang: pt
+    #img: https://cdn.countryflags.com/thumbs/portugal/flag-400.png
+    text: Português
+
+  - lang: es
+    #img: https://cdn.countryflags.com/thumbs/spain/flag-400.png
+    text: Espanol
+
+  - lang: de
+    #img: https://cdn.countryflags.com/thumbs/germany/flag-400.png
+    text: Deutsch
+
+  - lang: nl
+    #img: https://cdn.countryflags.com/thumbs/netherlands/flag-400.png
+    text: Nederlands
