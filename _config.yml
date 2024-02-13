@@ -221,7 +221,7 @@ defaults:
   home:
     heading: "Welcome to Adventure Engineering!" 
     subheading: "Exploring solutions together."
-    banner: "/assets/images/banners/oldtrike.jpg"
+    banner: "/assets/images/banners/oceanbanner.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
