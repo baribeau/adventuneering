@@ -219,9 +219,9 @@ header_pages:
 # Page default value
 defaults:
   home:
-    heading: "Welcome to Adventure Engineering!" 
-    subheading: "Exploring solutions together."
-    banner: "/assets/images/banners/oceanbanner.jpg"
+    heading: " " 
+    subheading: " "
+    banner: "/assets/images/banners/homebanner.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
