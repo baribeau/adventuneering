@@ -64,12 +64,12 @@ html[data-theme="dark"]  {
 
     .ct-language-dropdown {
       color: #f8f8f8;
-      background-color: $dark-background-color;
+      background-color: $background-color;
       box-shadow: 0 0 3px 1px #0000005b;
     }
 
     .ct-language-selected, .ct-language-dropdown li:hover {
-      background-color: #222 !important;
+      background-color: $grey-color-light !important;
     }
 
     @include media-query($on-laptop) {
