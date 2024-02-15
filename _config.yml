@@ -43,7 +43,7 @@ author: Julia Baribeau
 copyright: "Copyright (c) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Adventure Engineering: a blog dedicated to sharing inspiring examples of climate innovation 
+  Adventure Engineering: a blog dedicated to sharing inspiring examples of sustainable innovation 
   and resilient problem-solving, from anywhere in the world.
 
 #baseurl: "/adventuneering" # the subpath of your site, e.g. /blog
