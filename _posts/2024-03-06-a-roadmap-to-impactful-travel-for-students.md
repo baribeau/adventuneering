@@ -169,40 +169,42 @@ Here’s a list of documents, logistical tasks, and other tips you may need to p
 
   - Online application forms specific to the visa you’re applying for 
 
-* Yellow fever immunization card (depending on the country you’re going to and where you’ve been recently) 
+* **Yellow fever immunization card** (depending on the country you’re going to and where you’ve been recently) 
 
-* Travel immunizations specific to your destination 
+* **Travel immunizations** specific to your destination 
 
-* COVID-19 proof of vaccination 
+* **COVID-19 proof of vaccination**
 
-* Travel insurance (check if you have travel insurance coverage through your school, parents, work, or credit cards. Otherwise, I have used [Travel Guard](https://www.travelguard.ca/){:target="_blank"} as trip cancellation insurance to supplement my university’s travel health coverage, and [SafteyWing Nomad Insurance](https://safetywing.com/nomad-insurance){:target="_blank"} to cover both health and trip insurance in multiple countries when I had no other coverage.) 
-  - The above links are not sponsored, I just like their deals.
+* **Travel insurance** (check if you have travel insurance coverage through your school, parents, work, or credit cards. Otherwise, I have used [Travel Guard](https://www.travelguard.ca/){:target="_blank"} as trip cancellation insurance to supplement my university’s travel health coverage, and [SafteyWing Nomad Insurance](https://safetywing.com/nomad-insurance){:target="_blank"} to cover both health and trip insurance in multiple countries when I had no other coverage.) 
+  - The above links are not sponsored; I just like their deals.
 
-* 2 spare recent passport photos, printed 2”x2” (helpful in case of replacing lost documents at your embassy, or if you encounter surprise visa requirements at the border) 
+* 2 spare recent **passport photos**, printed 2”x2” (helpful in case of replacing lost documents at your embassy, or if you encounter surprise visa requirements at the border) 
 
-* Scanned copies of your ID and travel documents
+* **Scanned copies of your ID and travel documents**
   - Store printed copies in your bag with you, and digital copies online where you and your emergency contact(s) can access them.
 
-* Register with your [national consulate](https://travel.gc.ca/travelling/registration){:target="_blank"} so they can reach you in case of emergency, and save [national emergency numbers](https://travel.gc.ca/assistance/emergency-assistance){:target="_blank"} in your phone and written on paper.  
+* **Register** with your [national consulate](https://travel.gc.ca/travelling/registration){:target="_blank"} so they can reach you in case of emergency, and save [national emergency numbers](https://travel.gc.ca/assistance/emergency-assistance){:target="_blank"} in your phone and written on paper.  
 
-* A budget for your trip/project (helpful for applying for funding and staying organized) 
+* A **budget** spreadsheet for your trip/project (helpful for applying for funding and staying organized) 
 
-* Pack climate- and culture-appropriate clothing. Search up “packing list \<*your destination*\>” and read a few different lists to judge what else you will need to pack. Don’t forget items like an outlet adapter, a combination lock, and a waterproof bag (like a zipper seal bag) for important documents.
+* Climate- and culture-appropriate **clothing**. Search up “packing list \<*your destination*\>” and read a few different lists to judge what else you will need to pack. Don’t forget items like an outlet adapter, a combination lock, and a waterproof bag (like a zipper seal bag) for important documents.
 
-* Exchange some cash into the currency of your destination before you leave home. 
+* Exchange some **cash** into the currency of your destination before you leave home. 
 
-* Some countries require pristine (new/undamaged) USD cash bills to pay for entry on arrival. Research your destination, and bring some USD cash. The ATMs in the airport arrival don’t always work. 
+* Some countries require pristine (new/undamaged) **USD cash** to pay for entry on arrival. Research your destination, and bring some USD bills in excellent condition. The ATMs in the airport arrival don’t always work. Some borders are known to refuse USD bills if they are crinkled or torn even a little bit. 
 
  
 ### For University of Waterloo co-op students 
 
-One of the most common questions I get is how to make international volunteer experiences count for co-op credits at our school.  
+One of the most common questions I get is how to make international volunteer experiences count for co-op credits at the University of Waterloo. 
 
-First, let me say this: I didn’t get a co-op credit for my term in India. My trip and project were self-directed and involved a few different organizations, so finding someone to be my manager and evaluate my work for the WaterlooWorks evaluations would have been a hassle. I had already completed the 5 co-op credits I needed to graduate, so I had the freedom to take co-op term #6 as a freebie and I didn’t bother pursuing co-op accreditation. So, I’m no expert, but here’s what I know from my co-op experience and from the [Work Abroad Co-op Requirements](https://uwaterloo.ca/co-operative-education/work-abroad/before-you-go/co-op-requirements){:target="_blank"} webpage.
+First, let me say this: I didn’t get a co-op credit for my term in India. I had already completed the 5 co-op credits I needed to graduate with my engineering co-op accreditation, so I had the freedom to take co-op term #6 as a freebie and I didn’t bother pursuing co-op accreditation. So, I’m no expert, but here’s what I know from my co-op experience and from the [Work Abroad Co-op Requirements](https://uwaterloo.ca/co-operative-education/work-abroad/before-you-go/co-op-requirements){:target="_blank"} webpage.
 
 The easiest way to ensure your term will count is to apply through WaterlooWorks (WW). If you can find an impactful international work opportunity posted on WW that interests you, it should already be approved to meet the work term requirements, so apply as normal through the interview/rank/match process. 
 
 If you found or created an opportunity outside of WW, use the [“Arranged Own Job” (AOJ) form](https://uwaterloo.ca/co-operative-education/find-your-co-op-job/arrange-your-own-job){:target="_blank"} to register the opportunity within the UW co-op process. You will need to know details such the position title and description, start/end dates, rate of pay (or alternative remuneration – see below), and your supervisor's name/department/contact information. 
+
+As far as I know, you will need a supervisor who can complete your work term evaluation. This might be a challenge if your project is completely self-directed and/or you work with multiple different organizations.
 
 International positions have more flexibility when it comes to UW’s compensation requirements. Unpaid/underpaid positions can be approved depending on the local market standards, as long as some form of compensation is provided (e.g. flights, meals, accommodations, local travel, etc.). Read the “Unpaid/underpaid jobs located internationally (outside of Canada/USA)” section of the [co-op roles and responsibilities](https://uwaterloo.ca/co-operative-education/supports-and-resources/co-op-rights-and-responsibilities#unpaid-underpaid){:target="_blank"} webpage. 
 
