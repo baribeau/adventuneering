@@ -31,7 +31,7 @@ Plus, when I share these examples of innovation with the global community, it wi
 
 I went from being a 20-year-old who had never left Canada except for 3 brief trips into the northern USA, to living full-time in a rural village in India for 2 months, working every day with a team of grandmother solar engineers whose languages I didn’t know. 
 
-The [Solar Mamas of Barefoot College](https://www.youtube.com/watch?v=6qqqVwM6bMM) taught me not only how to build a solar lantern but also how to express myself and create deep bonds of friendship without relying on spoken language. By the end of my two months working with them every day, it felt like some of these women were my sisters, despite never having had a conversation. 
+The [Solar Mamas of Barefoot College](https://www.youtube.com/watch?v=6qqqVwM6bMM){:target="_blank"} taught me not only how to build a solar lantern but also how to express myself and create deep bonds of friendship without relying on spoken language. By the end of my two months working with them every day, it felt like some of these women were my sisters, despite never having had a conversation. 
 
 When I wasn’t in the solar workshop, I was in the plant nursery at Barefoot College, learning the basics of organic agriculture from the five nursery staff, who also taught me beginner’s Hindi, a few words of Marwari, and some Yoga. One day when I had a cough and sore throat, Hanuman Ji (the kind, caring man in charge of the plant nursery) jogged through the rows of plants, plucked a handful of different medicinal leaves, and showed me how to boil them into a bitter tea which he had me drink every few hours. It helped. 
 
@@ -47,18 +47,18 @@ I'm writing this blog to answer the most common question I get from my fellow yo
 
 What you need: 
 
-1. A destination where learning will be inevitable, and allies at that destination 
+1. [A destination where learning will be inevitable, and allies at that destination](#1-destination--allies) 
 
-2. Funding 
+2. [Funding](#2-funding) 
 
-3. To convince your parents to let you go 😉 
+3. [To convince your parents to let you go](#3-convince-your-parents-to-let-you-go) 😉 
 
 
 ### 1. Destination + Allies
 
 I obtained a destination where learning will be inevitable and allies at that desination through "reaching out". I was authentic with my passions, told everyone I met about my aspirations, and **asked** for support. It can feel uncomfortable to ask for favours (such as introductions, a place to stay, etc.) but by being open, honest, vulnerable, and energetic I attracted support from profs, mentors, and extended network connections to find organizations and allies aligned with my goals and values.
 
-Keep putting yourself out there, and be patient -- you will eventually bump into people with shared passions. Don't underestimate the power of a [friend-of-a-friend-of-a-friend-of-a-friend](https://science.howstuffworks.com/math-concepts/six-degrees-separation.htm).  
+Keep putting yourself out there, and be patient -- you will eventually bump into people with shared passions. Don't underestimate the power of a [friend-of-a-friend-of-a-friend-of-a-friend](https://science.howstuffworks.com/math-concepts/six-degrees-separation.htm){:target="_blank"}.  
 
 **Follow up**, for real! If someone mentions a person, project, or organization that sounds interesting to me, I always ask for more information, and especially for an introduction. When a kind person makes an offer of support, and I can tell they genuinely mean it, I take them up on it with gratitude.  
  
@@ -85,7 +85,7 @@ These grants can help offset the cost of your trip, but may not cover it entirel
 
 Since you're traveling to try and have an impact, look into **pitch competitions**, especially for social entrepreneurship. This is where I got the majority of my funding.  
 
-Some programs, like [GreenHouse at UWaterloo](https://uwaterloo.ca/united-college/greenhouse), don’t require you to have any entrepreneurial experience or even any project ideas when you enroll, as they will teach and guide you during the program. Keep an eye out for programs like this at your own institutions! 
+Some programs, like [GreenHouse at UWaterloo](https://uwaterloo.ca/united-college/greenhouse){:target="_blank"}, don’t require you to have any entrepreneurial experience or even any project ideas when you enroll, as they will teach and guide you during the program. Keep an eye out for programs like this at your own institutions! 
 
 Other financial sources include: 
 
@@ -95,7 +95,7 @@ Other financial sources include:
 * **crowdfunding** 
   - (I'm not personally experienced with this one, but there are plenty of other blogs out there to reference) 
 
-* **government volunteering programs** like the [International Youth Internship Program or Volunteer Cooperation Program](https://www.international.gc.ca/world-monde/study_work_travel-etude_travail_voyage/volunteer_internships-benevolat_stages.aspx?lang=eng) for Canadians.
+* **government volunteering programs** like the [International Youth Internship Program or Volunteer Cooperation Program](https://www.international.gc.ca/world-monde/study_work_travel-etude_travail_voyage/volunteer_internships-benevolat_stages.aspx?lang=eng){:target="_blank"} for Canadians.
   - (With programs like these, you usually apply for specific postings, and may have less liberty to focus on your own project. This might be a good thing, if you would rather contribute to existing solutions instead of piloting your own.) 
 
 * financial support from **family** 
@@ -103,7 +103,7 @@ Other financial sources include:
 
 ### 3. Convince your parents to let you go
 
-Getting your parents' blessing to go on an international trip can be tricky and depends on your situation. In my case, my parents were worried about me (a young woman) going alone to a foreign country, especially one where I would [so obviously be a foreigner](https://www.pinkcitypost.com/wp-content/uploads/2022/08/Youth-Day-Poornima-xlxl2kx2.jpg) (I'm white). They were scared I would be a target to be taken advantage of, robbed, sexually harassed, kidnapped, or any of the other nightmarish worries parents have about their kids – not to mention that I’m deathly [allergic](https://foodallergycanada.ca/food-allergy-basics/food-allergies-101/what-are-food-allergies/) to dairy and lentils, two of the main dietary staples in India. 
+Getting your parents' blessing to go on an international trip can be tricky and depends on your situation. In my case, my parents were worried about me (a young woman) going alone to a foreign country, especially one where I would [so obviously be a foreigner](https://www.pinkcitypost.com/wp-content/uploads/2022/08/Youth-Day-Poornima-xlxl2kx2.jpg){:target="_blank"} (I'm white). They were scared I would be a target to be taken advantage of, robbed, sexually harassed, kidnapped, or any of the other nightmarish worries parents have about their kids – not to mention that I’m deathly [allergic](https://foodallergycanada.ca/food-allergy-basics/food-allergies-101/what-are-food-allergies/){:target="_blank"} to dairy and lentils, two of the main dietary staples in India. 
 
 I won my parents’ blessing through organization and persistence, proving to them that I am thinking about what could go wrong and actively preparing for it. 
 
@@ -175,7 +175,7 @@ Here’s a list of documents, logistical tasks, and other tips you may need to p
 
 * COVID-19 proof of vaccination 
 
-* Travel insurance (check if you have travel insurance coverage through your school, parents, work, or credit cards. Otherwise, I have used [Travel Guard](https://www.travelguard.ca/) as trip cancellation insurance to supplement my university’s travel health coverage, and [SafteyWing Nomad Insurance](https://safetywing.com/nomad-insurance) to cover both health and trip insurance in multiple countries when I had no other coverage.) 
+* Travel insurance (check if you have travel insurance coverage through your school, parents, work, or credit cards. Otherwise, I have used [Travel Guard](https://www.travelguard.ca/){:target="_blank"} as trip cancellation insurance to supplement my university’s travel health coverage, and [SafteyWing Nomad Insurance](https://safetywing.com/nomad-insurance){:target="_blank"} to cover both health and trip insurance in multiple countries when I had no other coverage.) 
   - The above links are not sponsored, I just like their deals.
 
 * 2 spare recent passport photos, printed 2”x2” (helpful in case of replacing lost documents at your embassy, or if you encounter surprise visa requirements at the border) 
@@ -183,7 +183,7 @@ Here’s a list of documents, logistical tasks, and other tips you may need to p
 * Scanned copies of your ID and travel documents
   - Store printed copies in your bag with you, and digital copies online where you and your emergency contact(s) can access them.
 
-* Register with your [national consulate](https://travel.gc.ca/travelling/registration) so they can reach you in case of emergency, and save [national emergency numbers](https://travel.gc.ca/assistance/emergency-assistance) in your phone and written on paper.  
+* Register with your [national consulate](https://travel.gc.ca/travelling/registration){:target="_blank"} so they can reach you in case of emergency, and save [national emergency numbers](https://travel.gc.ca/assistance/emergency-assistance){:target="_blank"} in your phone and written on paper.  
 
 * A budget for your trip/project (helpful for applying for funding and staying organized) 
 
@@ -198,21 +198,21 @@ Here’s a list of documents, logistical tasks, and other tips you may need to p
 
 One of the most common questions I get is how to make international volunteer experiences count for co-op credits at our school.  
 
-First, let me say this: I didn’t get a co-op credit for my term in India. My trip and project were self-directed and involved a few different organizations, so finding someone to be my manager and evaluate my work for the WaterlooWorks evaluations would have been a hassle. I had already completed the 5 co-op credits I needed to graduate, so I had the freedom to take co-op term #6 as a freebie and I didn’t bother pursuing co-op accreditation. So, I’m no expert, but here’s what I know from my co-op experience and from the [Work Abroad Co-op Requirements](https://uwaterloo.ca/co-operative-education/work-abroad/before-you-go/co-op-requirements) webpage.
+First, let me say this: I didn’t get a co-op credit for my term in India. My trip and project were self-directed and involved a few different organizations, so finding someone to be my manager and evaluate my work for the WaterlooWorks evaluations would have been a hassle. I had already completed the 5 co-op credits I needed to graduate, so I had the freedom to take co-op term #6 as a freebie and I didn’t bother pursuing co-op accreditation. So, I’m no expert, but here’s what I know from my co-op experience and from the [Work Abroad Co-op Requirements](https://uwaterloo.ca/co-operative-education/work-abroad/before-you-go/co-op-requirements){:target="_blank"} webpage.
 
 The easiest way to ensure your term will count is to apply through WaterlooWorks (WW). If you can find an impactful international work opportunity posted on WW that interests you, it should already be approved to meet the work term requirements, so apply as normal through the interview/rank/match process. 
 
-If you found or created an opportunity outside of WW, use the [“Arranged Own Job” (AOJ) form](https://uwaterloo.ca/co-operative-education/find-your-co-op-job/arrange-your-own-job) to register the opportunity within the UW co-op process. You will need to know details such the position title and description, start/end dates, rate of pay (or alternative remuneration – see below), and your supervisor's name/department/contact information. 
+If you found or created an opportunity outside of WW, use the [“Arranged Own Job” (AOJ) form](https://uwaterloo.ca/co-operative-education/find-your-co-op-job/arrange-your-own-job){:target="_blank"} to register the opportunity within the UW co-op process. You will need to know details such the position title and description, start/end dates, rate of pay (or alternative remuneration – see below), and your supervisor's name/department/contact information. 
 
-International positions have more flexibility when it comes to UW’s compensation requirements. Unpaid/underpaid positions can be approved depending on the local market standards, as long as some form of compensation is provided (e.g. flights, meals, accommodations, local travel, etc.). Read the “Unpaid/underpaid jobs located internationally (outside of Canada/USA)” section of the [co-op roles and responsibilities](https://uwaterloo.ca/co-operative-education/supports-and-resources/co-op-rights-and-responsibilities#unpaid-underpaid) webpage. 
+International positions have more flexibility when it comes to UW’s compensation requirements. Unpaid/underpaid positions can be approved depending on the local market standards, as long as some form of compensation is provided (e.g. flights, meals, accommodations, local travel, etc.). Read the “Unpaid/underpaid jobs located internationally (outside of Canada/USA)” section of the [co-op roles and responsibilities](https://uwaterloo.ca/co-operative-education/supports-and-resources/co-op-rights-and-responsibilities#unpaid-underpaid){:target="_blank"} webpage. 
 
-To be approved for an international co-op term, you need to satisfy the [UW Work Abroad Co-op Requirements](https://uwaterloo.ca/co-operative-education/work-abroad/before-you-go/co-op-requirements), which includes being 18 years old, in full-time studies, proficient in English, and having no criminal record, among other requirements. Your destination must **not** be high risk (“avoid non-essential travel” or “avoid all travel”) according to the [Government of Canada travel advisories](https://travel.gc.ca/travelling/advisories). 
+To be approved for an international co-op term, you need to satisfy the [UW Work Abroad Co-op Requirements](https://uwaterloo.ca/co-operative-education/work-abroad/before-you-go/co-op-requirements){:target="_blank"}, which includes being 18 years old, in full-time studies, proficient in English, and having no criminal record, among other requirements. Your destination must **not** be high risk (“avoid non-essential travel” or “avoid all travel”) according to the [Government of Canada travel advisories](https://travel.gc.ca/travelling/advisories){:target="_blank"}. 
 
 You will have to complete a Risk Management Form in WaterlooWorks, and pass the “Co-op Work Term Readiness Training” course on LEARN with at least an 80%. The course will appear on your LEARN homepage when your term abroad is approved. 
 
-I got most of the above information from the [Work Abroad Co-op Requirements](https://uwaterloo.ca/co-operative-education/work-abroad/before-you-go/co-op-requirements) webpage on the University of Waterloo website. Use that website as your primary source of information. 
+I got most of the above information from the [Work Abroad Co-op Requirements](https://uwaterloo.ca/co-operative-education/work-abroad/before-you-go/co-op-requirements){:target="_blank"} webpage on the University of Waterloo website. Use that website as your primary source of information. 
 
-Talk to your [co-op advisor](https://uwaterloo.ca/co-operative-education/contact-co-operative-education/your-co-op-advisors) if you have any questions. 
+Talk to your [co-op advisor](https://uwaterloo.ca/co-operative-education/contact-co-operative-education/your-co-op-advisors){:target="_blank"} if you have any questions. 
  
 
 ### Conclusion
