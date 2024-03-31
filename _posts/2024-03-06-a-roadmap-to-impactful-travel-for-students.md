@@ -17,13 +17,13 @@ top: 1
 sidebar: []
 ---
 
-In 2022, I went from being a 21-year-old who had never left Canada (except for 1 week in the northern USA) to living full-time in a rural village in India for 2 months, working every day with a team of grandmother solar engineers whose languages I didn’t know. 
+In 2022, I went from being a 21-year-old who had pretty much never left Canada to living full-time in a rural village in India for 2 months, working every day with a team of grandmother solar engineers whose languages I didn’t know. 
 
 The [Solar Mamas of Barefoot College](https://www.youtube.com/watch?v=6qqqVwM6bMM){:target="_blank"} taught me not only how to build a solar lantern but also how to express myself and create deep bonds of friendship without relying on spoken language. By the end of my two months working with them every day, it felt like some of these women were my sisters, despite never having had a conversation. 
 
 When I wasn’t in the solar workshop, I was in the plant nursery at [Barefoot College](https://www.barefootcollegetilonia.org/), learning the basics of organic agriculture from the five nursery staff, who also taught me beginner’s Hindi, a few words of Marwari, and some Yoga. One day when I had a cough and sore throat, Hanuman Ji (the kind, caring man in charge of the plant nursery) jogged through the rows of plants, plucked a handful of different medicinal leaves, and showed me how to boil them into a bitter tea which he had me drink every few hours. It helped. 
 
-I also spent some time with a different NGO named the [Sehgal Foundation](https://www.smsfoundation.org/), attending a field visit to the tiny village of Ghaghas, Haryana. Locals showed me their community radio station (critical for fighting misinformation and taboos as well as running remote classes during COVID-19) and their gorgeous elementary school, equipped with vibrant murals, clean water, and bathrooms. One thing I learned that I hadn’t though of before was that access to water and bathrooms is especially critical for improving girls’ education, because otherwise they must stay home when they get their period.  
+I also spent some time with a different NGO named the [Sehgal Foundation](https://www.smsfoundation.org/), attending a field visit to the tiny village of Ghaghas, Haryana. Locals showed me their community radio station (critical for fighting misinformation and taboos as well as running remote classes during COVID-19) and their gorgeous elementary school, equipped with vibrant murals, clean water, and bathrooms. One thing I learned was that access to water and bathrooms is especially critical for improving girls’ education, because otherwise they must stay home when they get their period.  
 
 In New Delhi, the largest city I had ever been in, I met with a lady named Sampada from the [Indo-Universal Collaboration for Engineering Education (IUCEE)](https://iucee.org/), an organization encouraging young people to create impactful projects in their communities. She became one of my closest allies in India, not only encouraging my work and inviting me as a guest speaker at academic events, but also taking me in like one of her children and teaching me how to play Indian board games with her family. 
 
@@ -52,9 +52,11 @@ My personal journey was shaped by my unique identity and place in the world as a
 
 ### 1. Figure Out Goals ###
 
+Having a clear understanding of my own goals helps me shape beneficial ecperiences by leaning into opportunities which align with my goals whenever they arise.
+
 #### a. What do I want to learn? ####
 
-For me, travel is education. By setting up experiences to immerse myself in unfamiliar environments, I learn language, adaptation skills, design, innovation, and culture, not to mention the benefits of meeting interesting people who open exciting doors of opportunity.  
+For me, travel is education. By setting up experiences to immerse myself in unfamiliar environments, I hoped to learn language, adaptation skills, design, innovation, and culture, not to mention the benefits of meeting interesting people who open exciting doors of opportunity.  
 
 I set out to travel because I wanted to better understand how the world really works. Along with this understanding, I wanted to augment my engineering education with examples of real-world designs and creative solutions from diverse cultures and countries. Equipped with that knowledge, I will better be able to come up with high-quality, sustainable solutions to problems I face at home.  
 
@@ -66,11 +68,13 @@ By going around finding examples of cool projects and sharing that knowledge wit
 
 ### Take Inventory ###
 
-Taking inventory of my resources and responsibilities at the time
+Taking inventory of my responsibilites and resources at any time helps me narrow down where and when I can go to learn what I hope to learn, as well as where I can be most effective at having a positive impact.
 
-#### a. Resources ####
+#### a. Responsibilities ####
 
-#### b. Responsibilities ####
+
+
+#### b. Resources ####
 
 
 ---
