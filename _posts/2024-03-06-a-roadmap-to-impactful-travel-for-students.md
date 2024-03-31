@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to travel for positive change
-subtitle: Having a global impact as a broke uni student
+subtitle: Having a global impact as a uni student
 author: Julia Baribeau
 categories: 
 banner:
@@ -19,7 +19,7 @@ sidebar: []
 
 In 2022, I went from being a 21-year-old who had pretty much never left Canada to living full-time in a rural village in India for 2 months, working every day with a team of grandmother solar engineers whose languages I didn’t know. 
 
-The [Solar Mamas of Barefoot College](https://www.youtube.com/watch?v=6qqqVwM6bMM){:target="_blank"} taught me not only how to build a solar lantern but also how to express myself and create deep bonds of friendship without relying on spoken language. By the end of my two months working with them every day, it felt like some of these women were my sisters, despite never having had a conversation. 
+The [Solar Mamas of Barefoot College](https://www.youtube.com/watch?v=6qqqVwM6bMM){:target="_blank"} taught me not only how to build a solar lantern but also how to express myself and create deep bonds of friendship without relying on spoken language. By the end of my two months working with them every day, it felt like some of these women were my sisters, despite us never having had a conversation. 
 
 When I wasn’t in the solar workshop, I was in the plant nursery at [Barefoot College](https://www.barefootcollegetilonia.org/), learning the basics of organic agriculture from the five nursery staff, who also taught me beginner’s Hindi, a few words of Marwari, and some Yoga. One day when I had a cough and sore throat, Hanuman Ji (the kind, caring man in charge of the plant nursery) jogged through the rows of plants, plucked a handful of different medicinal leaves, and showed me how to boil them into a bitter tea which he had me drink every few hours. It helped. 
 
@@ -33,26 +33,26 @@ I wrote this post to answer the most common question I get from my fellow young 
 
 By explaining my own journey, I hope to provide a roadmap for other students to create opportunities of their own.
 
-### How to travel the world as a broke uni student -- and have a positive impact while doing it ###
+### How to travel the world as a uni student -- and have a positive impact while doing it ###
 
 1. [Figure Out Goals](#1-figure-out-goals)
-  a. [What do I want to learn?](#a-what-do-i-want-to-learn)
-  b. [What impact do I want to have?](#b-what-impact-do-i-want-to-have)
+    - [What do I want to learn?](#a-what-do-i-want-to-learn)
+    - [What impact do I want to have?](#b-what-impact-do-i-want-to-have)
 
 2. [Take Inventory](#2-take-inventory)
-  a. [Responsibilities](#a-responsibilities)
-  b. [Resources](#b-resources)
+    - [Responsibilities](#a-responsibilities)
+    - [Resources](#b-resources)
 
 3. [Methodically Remove Barriers](#3-methodically-remove-barriers)
-  a. Allies
-  b. Funding
-  c. Convincing parents
+    - [Allies](#1-allies)
+    - [Funding](#2-finding-funding)
+    - [Convincing parents](#3-how-i-convinced-my-parents-to-let-me-travel)
 
 My personal journey was shaped by my unique identity and place in the world as a Canadian, a girl, someone with no dependents, someone with lots of food allergies, and so on. Not all of my story will be directly applicable to your own journey, but I hope that by sharing my process, it inspires you to pursue your own goals. Take in my story, then turn around and shape your own!
 
 ### 1. Figure Out Goals ###
 
-Having a clear understanding of my own goals helps me shape beneficial ecperiences by leaning into opportunities which align with my goals whenever they arise.
+Having a clear understanding of my own goals helps me shape beneficial experiences by leaning into opportunities which align with my goals whenever they arise.
 
 #### a. What do I want to learn? ####
 
@@ -72,7 +72,7 @@ By going around finding examples of cool projects and sharing that knowledge wit
 
 ### 2. Take Inventory ###
 
-Taking inventory of my responsibilites and resources at any time helps me narrow down where and when I can go to learn what I hope to learn, as well as where I can be most effective at having a positive impact.
+Taking inventory of my responsibilities and resources at any time helps me narrow down where and when I can go to learn what I hope to learn, as well as where I can be most effective at having a positive impact.
 
 #### a. Responsibilities ####
 
@@ -82,14 +82,14 @@ As a co-op student at the University of Waterloo, I had to be in Waterloo, Ontar
 
 By 2022, I had one work term left in my term schedule, but since I had already earned the 5 co-op credits I needed, I could do what I liked with that four months from May to August between academic terms.
 
-Through UW's chapter of Engineers Without Borders (EWB), I had met a senior engineer named Raj Rajaram who inspired me to take action and ecouraged me to travel. He had put me in touch with some NGOs in education, women empowerment, and sustainability in north India, and I had invitations from those NGOs to learn from their work if I could get myself there. Check my other posts (coming soon) for the full story on how that came to be!
+Through UW's chapter of Engineers Without Borders (EWB), I had met a senior engineer named Raj Rajaram who inspired me to take action and encouraged me to travel. He had put me in touch with some NGOs in education, women empowerment, and sustainability in north India, and I had invitations from those NGOs to learn from their work if I could get myself there. Check my other posts (coming soon) for the full story on how that came to be!
 
 So, I had a gap in time which I could use for this experience, I had a destination where learning will be inevitable, and I had some new allies at that destination who could help me find my way to achieving the impact I hope to achieve.
 
 
 ### 3. Methodically Remove Barriers ###
 
-With ANY barrier, having [allies](#1-allies) -- people in any area of expertise who are willing to support your goals by helping you network, creating opportunities, teaching you what you don't know, etc -- makes overcoming a barrier a whole lot easier. A big lesson I've learned from my experiences is that our whole society is pretty much just *people doing things*, so if you can make friends with the right people, almost anything is possible. 
+With ANY barrier, having [allies](#1-allies) -- people in any area of expertise who are willing to support your goals by helping you network, creating opportunities, teaching you what you don't know, etc. -- makes overcoming a barrier a whole lot easier. A big lesson I've learned from my experiences is that our whole society is pretty much just *people doing things*, so if you can make friends with the right people, almost anything is possible. 
 
 There were a few key barriers I had to overcome before I could make this dream of traveling, learning, and having a positive impact a reality: namely, getting the [financial resources](#2-finding-funding) to be able to afford a co-op term without a paid job, especially one abroad, and [convincing my parents to let me travel](#3-how-i-convinced-my-parents-to-let-me-travel). The latter is really about safety.
 
@@ -241,7 +241,7 @@ The easiest way to ensure your term will count is to apply through WaterlooWorks
 
 If you found or created an opportunity outside of WW, use the [“Arranged Own Job” (AOJ) form](https://uwaterloo.ca/co-operative-education/find-your-co-op-job/arrange-your-own-job){:target="_blank"} to register the opportunity within the UW co-op process. You will need to know details such the position title and description, start/end dates, rate of pay (or alternative remuneration – see below), and your supervisor's name/department/contact information. 
 
-As far as I know, you will need a supervisor who can complete your work term evaluation. This might be a challenge if your project is completely self-directed and/or you work with multiple different organizations.
+As far as I know, you will need a supervisor who can complete your work term evaluation. This might be a challenge if your project is completely self-directed and/or you work with multiple different organizations like in my case. That's the major reason I didn't bother trying to get the co-op accreditation for my term in India.
 
 International positions have more flexibility when it comes to UW’s compensation requirements. Unpaid/underpaid positions can be approved depending on the local market standards, as long as some form of compensation is provided (e.g. flights, meals, accommodations, local travel, etc.). Read the “Unpaid/underpaid jobs located internationally (outside of Canada/USA)” section of the [co-op roles and responsibilities](https://uwaterloo.ca/co-operative-education/supports-and-resources/co-op-rights-and-responsibilities#unpaid-underpaid){:target="_blank"} webpage. 
 
@@ -258,7 +258,7 @@ Talk to your [co-op advisor](https://uwaterloo.ca/co-operative-education/contact
 
 This road map I have presented to achieve your impactful, educational travel dreams is based on my own experience. This is just what I figured out while methodically taking down barriers to achieve my own dreams; not everything about my experience will apply to your experience, and you might encounter different barriers that I haven’t addressed here.  
 
-Each time a barrier appears which seems to be saying that it’s not possible to do what you have set out to do, don’t lose hope. Maintain the resilience (or stubbornness, depending on who you ask) to keep finding your way around each obstacle, defining your own path.  
+Each time a barrier appears which seems to be saying that it’s not possible to do what you have set out to do, don’t lose hope. Maintain the resilience (or stubbornness, depending on who you ask) to keep finding your way around each obstacle, defining your own path towards your goals.
 
 Patience, determination, resourcefulness, and creativity will be major skills you’ll have to call upon. Before you know it, you’ll be arriving at your destination in a whirlwind of introductions and new experiences, wondering how the heck you actually made it happen. 
 
