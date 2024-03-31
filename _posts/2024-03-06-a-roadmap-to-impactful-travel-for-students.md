@@ -5,7 +5,7 @@ subtitle: Having a global impact as a uni student
 author: Julia Baribeau
 categories: 
 banner:
-  image: https://bit.ly/3xTmdUP
+  image: ../assets/images/banners/oldtrike.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
