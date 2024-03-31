@@ -1,60 +1,89 @@
 ---
 layout: post
-title: Impactful travel for students
-subtitle: How to travel the world as a broke uni student and have a positive impact while doing it
+title: How to travel for positive change
+subtitle: Having a global impact as a broke uni student
 author: Julia Baribeau
-categories: travel impact
+categories: 
 banner:
-  video: 
-  loop: true
-  volume: 0.8
-  start_at: 8.5
   image: https://bit.ly/3xTmdUP
   opacity: 0.618
   background: "#000"
   height: "100vh"
   min_height: "38vh"
-  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  heading_style: "font-size: 3em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
 tags: travel impact how-to
 top: 1
 sidebar: []
 ---
 
-Travel is education. By setting up experiences to immerse ourselves in unfamiliar environments, we can learn language, adaptation, design, innovation, and culture, not to mention the benefits of meeting interesting people who open exciting doors of opportunity for us.  
-
-In our globalized world where problems and solutions increasingly span across borders and continents, this education is as important as ever. 
-
-I set out to travel because I wanted to better understand how the world really works. Along with this understanding, I wanted to augment my engineering education with examples of real-world designs and creative solutions from diverse cultures and countries. Equipped with that knowledge, I will better be able to come up with high-quality, sustainable solutions to problems I face at home.  
-
-Plus, when I share these examples of innovation with the global community, it will empower people everywhere to take initiative and improve their own communities! That’s the goal of this blog, Adventure Engineering. 
-
-I went from being a 20-year-old who had never left Canada except for 3 brief trips into the northern USA, to living full-time in a rural village in India for 2 months, working every day with a team of grandmother solar engineers whose languages I didn’t know. 
+In 2022, I went from being a 21-year-old who had never left Canada (except for 1 week in the northern USA) to living full-time in a rural village in India for 2 months, working every day with a team of grandmother solar engineers whose languages I didn’t know. 
 
 The [Solar Mamas of Barefoot College](https://www.youtube.com/watch?v=6qqqVwM6bMM){:target="_blank"} taught me not only how to build a solar lantern but also how to express myself and create deep bonds of friendship without relying on spoken language. By the end of my two months working with them every day, it felt like some of these women were my sisters, despite never having had a conversation. 
 
-When I wasn’t in the solar workshop, I was in the plant nursery at Barefoot College, learning the basics of organic agriculture from the five nursery staff, who also taught me beginner’s Hindi, a few words of Marwari, and some Yoga. One day when I had a cough and sore throat, Hanuman Ji (the kind, caring man in charge of the plant nursery) jogged through the rows of plants, plucked a handful of different medicinal leaves, and showed me how to boil them into a bitter tea which he had me drink every few hours. It helped. 
+When I wasn’t in the solar workshop, I was in the plant nursery at [Barefoot College](https://www.barefootcollegetilonia.org/), learning the basics of organic agriculture from the five nursery staff, who also taught me beginner’s Hindi, a few words of Marwari, and some Yoga. One day when I had a cough and sore throat, Hanuman Ji (the kind, caring man in charge of the plant nursery) jogged through the rows of plants, plucked a handful of different medicinal leaves, and showed me how to boil them into a bitter tea which he had me drink every few hours. It helped. 
 
-I also spent some time with a different NGO named the Sehgal Foundation, attending a field visit to the tiny village of Ghaghas, Haryana. Locals showed me their community radio station (critical for fighting misinformation and taboos as well as running remote classes during COVID-19) and their gorgeous elementary school, equipped with vibrant murals, clean water, and bathrooms. One thing I hadn’t though of before was that access to water and bathrooms is especially critical for improving girls’ education, because otherwise they must stay home when they get their period.  
+I also spent some time with a different NGO named the [Sehgal Foundation](https://www.smsfoundation.org/), attending a field visit to the tiny village of Ghaghas, Haryana. Locals showed me their community radio station (critical for fighting misinformation and taboos as well as running remote classes during COVID-19) and their gorgeous elementary school, equipped with vibrant murals, clean water, and bathrooms. One thing I learned that I hadn’t though of before was that access to water and bathrooms is especially critical for improving girls’ education, because otherwise they must stay home when they get their period.  
 
-In New Delhi, the largest city I had ever been in, I met with a lady named Sampada from the Indo-Universal Collaboration for Engineering Education (IUCEE), an organization encouraging young people to create impactful projects in their communities. She became one of my closest allies in India, not only encouraging my work and inviting me as a guest speaker at academic events, but also taking me in like one of her children and teaching me how to play Indian board games with her family. 
+In New Delhi, the largest city I had ever been in, I met with a lady named Sampada from the [Indo-Universal Collaboration for Engineering Education (IUCEE)](https://iucee.org/), an organization encouraging young people to create impactful projects in their communities. She became one of my closest allies in India, not only encouraging my work and inviting me as a guest speaker at academic events, but also taking me in like one of her children and teaching me how to play Indian board games with her family. 
 
 The experiences I had in India unlocked a whole new perspective on the world, as well as a fierce love for travel which has taken me to 14+ different countries since then. The connections I made with delightful people have stayed with me, and continue to provide joy and open doors in my life to this day. 
 
-I'm writing this blog to answer the most common question I get from my fellow young people when I tell my stories: **"how do I make something like that happen in my life too?"**
+I wrote this post to answer the most common question I get from my fellow young people when I tell my stories: **"how do I make something like that happen in my life too?"**
 
-## How to travel the world as a broke uni student -- and have a positive impact while doing it 
+By explaining my own journey, I hope to provide a roadmap for other students to create opportunities of their own.
 
-What you need: 
+### How to travel the world as a broke uni student -- and have a positive impact while doing it ###
+
+1. Figure Out Goals
+  a. What impact do I want to have?
+  b. What do I want to learn?
+
+2. Take Inventory
+  a. Resources
+  b. Responsibilities
+
+3. Methodically Remove Barriers
+  a. Allies
+  b. Funding
+  c. Convincing my parents
+
+My personal journey was shaped by my unique identity and place in the world as a Canadian, a girl, someone with no dependents, someone with lots of food allergies, and so on. Not all of my story will be directly applicable to your own journey, but I hope that by sharing my process, it inspires you to pursue your own goals. Take in my story, then turn around and shape your own!
+
+### 1. Figure Out Goals ###
+
+#### a. What do I want to learn? ####
+
+For me, travel is education. By setting up experiences to immerse myself in unfamiliar environments, I learn language, adaptation skills, design, innovation, and culture, not to mention the benefits of meeting interesting people who open exciting doors of opportunity.  
+
+I set out to travel because I wanted to better understand how the world really works. Along with this understanding, I wanted to augment my engineering education with examples of real-world designs and creative solutions from diverse cultures and countries. Equipped with that knowledge, I will better be able to come up with high-quality, sustainable solutions to problems I face at home.  
+
+#### b. What impact do I want to have? ####
+
+My specific interests include education, ecological sustainability, peace, gender equity, renewable energy, community self-sufficiency, and anything about WATER: groundwater conservation, rainwater harvesting, clean drinking water, flood management, wetland ecology, river health... With so many interests, there was no shortage of potential places and organizations to get involved with.
+
+By going around finding examples of cool projects and sharing that knowledge with the global community, I hope to empower people everywhere to take initiative and improve their own communities. That’s the goal of this blog, Adventure Engineering!
+
+### Take Inventory ###
+
+Taking inventory of my resources and responsibilities at the time
+
+#### a. Resources ####
+
+#### b. Responsibilities ####
+
+
+---
+
 
 1. [A destination where learning will be inevitable, and allies at that destination](#1-destination--allies) 
 
-2. [Funding](#2-funding) 
+2. [Funding](#2-finding-funding) 
 
-3. [To convince your parents to let you go](#3-convince-your-parents-to-let-you-go) 😉 
+3. [To convince my parents to let me travel](#3-how-i-convinced-my-parents-to-let-me-travel) 
 
 
-### 1. Destination + Allies
+### 1. Destination + Allies ###
 
 I obtained a destination where learning will be inevitable and allies at that desination through "reaching out". I was authentic with my passions, told everyone I met about my aspirations, and **asked** for support. It can feel uncomfortable to ask for favours (such as introductions, a place to stay, etc.) but by being open, honest, vulnerable, and energetic I attracted support from profs, mentors, and extended network connections to find organizations and allies aligned with my goals and values.
 
@@ -73,7 +102,7 @@ By going someplace with high contrast to my home, I not only learned about the c
 So, as you talk to people, mention that you’re trying to travel to someplace different from home so you can grow and learn as much as possible. You never know who will have contacts in exciting projects around the world. 
 
 
-### 2. Funding
+### 2. Finding Funding ###
 
 Getting funding can be daunting to think about, but there is a lot of funding out there if you get involved in the right spaces. 
 
@@ -101,9 +130,11 @@ Other financial sources include:
 * financial support from **family** 
   - (if your parents have the capacity to support, ask! I'm not personally experienced with this situation, but I suspect it might make step 3 (“convince your parents to let you go”) more complicated -- I think it was easier to convince my parents I was responsible enough to go on the trip because I amassed the funding myself.) 
 
-### 3. Convince your parents to let you go
+### 3. How I Convinced My Parents to Let Me Travel ###
 
-Getting your parents' blessing to go on an international trip can be tricky and depends on your situation. In my case, my parents were worried about me (a young woman) going alone to a foreign country, especially one where I would [so obviously be a foreigner](https://www.pinkcitypost.com/wp-content/uploads/2022/08/Youth-Day-Poornima-xlxl2kx2.jpg){:target="_blank"} (I'm white). They were scared I would be a target to be taken advantage of, robbed, sexually harassed, kidnapped, or any of the other nightmarish worries parents have about their kids – not to mention that I’m deathly [allergic](https://foodallergycanada.ca/food-allergy-basics/food-allergies-101/what-are-food-allergies/){:target="_blank"} to dairy and lentils, two of the main dietary staples in India. 
+This section is really about safety.
+
+My parents were worried about me (a young woman) going alone to a foreign country, especially one where I would [so obviously be a foreigner](https://www.pinkcitypost.com/wp-content/uploads/2022/08/Youth-Day-Poornima-xlxl2kx2.jpg){:target="_blank"}. They were scared I would be a target to be taken advantage of, robbed, sexually harassed, kidnapped, or any of the other nightmarish worries parents have about their kids – not to mention that I’m deathly [allergic](https://foodallergycanada.ca/food-allergy-basics/food-allergies-101/what-are-food-allergies/){:target="_blank"} to dairy and lentils, two of the main dietary staples in India. 
 
 I won my parents’ blessing through organization and persistence, proving to them that I am thinking about what could go wrong and actively preparing for it. 
 
@@ -149,7 +180,7 @@ Me: “Ok, these evaporative cooling packs will prevent it from overheating, eve
 
 Whatever your loved ones' concerns are, listen to them! Your parents have probably heard of more atrocities in the world than you have, just by nature of being alive longer. Take their concerns seriously -- they are real possibilities. Take action to mitigate the risks, and then show them how you are taking responsibility for your safety. 
 
-### Other tips
+### Other tips ###
 
 Here’s a list of documents, logistical tasks, and other tips you may need to prepare for your experience: 
 
@@ -175,13 +206,11 @@ Here’s a list of documents, logistical tasks, and other tips you may need to p
 
 * **COVID-19 proof of vaccination**
 
-* **Travel insurance** (check if you have travel insurance coverage through your school, parents, work, or credit cards. Otherwise, I have used [Travel Guard](https://www.travelguard.ca/){:target="_blank"} as trip cancellation insurance to supplement my university’s travel health coverage, and [SafteyWing Nomad Insurance](https://safetywing.com/nomad-insurance){:target="_blank"} to cover both health and trip insurance in multiple countries when I had no other coverage.) 
-  - The above links are not sponsored; I just like their deals.
+* **Travel insurance** (check if you have travel insurance coverage through your school, parents, work, or credit cards. Otherwise, I have used [Travel Guard](https://www.travelguard.ca/){:target="_blank"} as trip cancellation insurance to supplement my university’s travel health coverage, and [SafteyWing Nomad Insurance](https://safetywing.com/nomad-insurance){:target="_blank"} to cover both health and trip insurance in multiple countries when I had no other coverage. *These links are **not** sponsored; I just like their deals.*) 
 
 * 2 spare recent **passport photos**, printed 2”x2” (helpful in case of replacing lost documents at your embassy, or if you encounter surprise visa requirements at the border) 
 
-* **Scanned copies of your ID and travel documents**
-  - Store printed copies in your bag with you, and digital copies online where you and your emergency contact(s) can access them.
+* **Scanned copies of your ID and travel documents.** Store printed copies in your bag with you, and digital copies online where you and your emergency contact(s) can access them.
 
 * **Register** with your [national consulate](https://travel.gc.ca/travelling/registration){:target="_blank"} so they can reach you in case of emergency, and save [national emergency numbers](https://travel.gc.ca/assistance/emergency-assistance){:target="_blank"} in your phone and written on paper.  
 
