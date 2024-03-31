@@ -35,18 +35,18 @@ By explaining my own journey, I hope to provide a roadmap for other students to 
 
 ### How to travel the world as a broke uni student -- and have a positive impact while doing it ###
 
-1. Figure Out Goals
-  a. What impact do I want to have?
-  b. What do I want to learn?
+1. [Figure Out Goals](#1-figure-out-goals)
+  a. [What do I want to learn?](#a-what-do-i-want-to-learn)
+  b. [What impact do I want to have?](#b-what-impact-do-i-want-to-have)
 
-2. Take Inventory
-  a. Resources
-  b. Responsibilities
+2. [Take Inventory](#2-take-inventory)
+  a. [Responsibilities](#a-responsibilities)
+  b. [Resources](#b-resources)
 
-3. Methodically Remove Barriers
+3. [Methodically Remove Barriers](#3-methodically-remove-barriers)
   a. Allies
   b. Funding
-  c. Convincing my parents
+  c. Convincing parents
 
 My personal journey was shaped by my unique identity and place in the world as a Canadian, a girl, someone with no dependents, someone with lots of food allergies, and so on. Not all of my story will be directly applicable to your own journey, but I hope that by sharing my process, it inspires you to pursue your own goals. Take in my story, then turn around and shape your own!
 
@@ -58,7 +58,11 @@ Having a clear understanding of my own goals helps me shape beneficial ecperienc
 
 For me, travel is education. By setting up experiences to immerse myself in unfamiliar environments, I hoped to learn language, adaptation skills, design, innovation, and culture, not to mention the benefits of meeting interesting people who open exciting doors of opportunity.  
 
-I set out to travel because I wanted to better understand how the world really works. Along with this understanding, I wanted to augment my engineering education with examples of real-world designs and creative solutions from diverse cultures and countries. Equipped with that knowledge, I will better be able to come up with high-quality, sustainable solutions to problems I face at home.  
+The more foreign my destination is compared to the familiar world I know, the more I learn about culture, language, and different approaches to solving problems. Getting out of my comfort zone is... well... uncomfortable, but every time I do, my comfort zone gets wider, and the incredible experiences that come with it make the initial discomfort well worth it. 
+
+By going someplace with high contrast to my home, I not only learn about the culture at my destination, but also learn about my home culture by seeing my own customs (which I previously took for granted as “just the way things are done”) stand out as foreign.  
+
+I set out to travel because I wanted to better understand how the world really works. Along with this understanding, I wanted to augment my engineering education with examples of real-world designs and creative solutions from diverse cultures and countries. Equipped with that knowledge, I will better be able to come up with high-quality, sustainable solutions to problems I face in my life and my career.  
 
 #### b. What impact do I want to have? ####
 
@@ -66,61 +70,57 @@ My specific interests include education, ecological sustainability, peace, gende
 
 By going around finding examples of cool projects and sharing that knowledge with the global community, I hope to empower people everywhere to take initiative and improve their own communities. That’s the goal of this blog, Adventure Engineering!
 
-### Take Inventory ###
+### 2. Take Inventory ###
 
 Taking inventory of my responsibilites and resources at any time helps me narrow down where and when I can go to learn what I hope to learn, as well as where I can be most effective at having a positive impact.
 
 #### a. Responsibilities ####
 
-
+As a co-op student at the University of Waterloo, I had to be in Waterloo, Ontario, to attend classes every other four-month term, with the rest of the terms dedicated to co-operative education work terms. If you're unfamiliar with co-op, it allows students to learn on the job during our degrees by working full-time in our field during short (typically 4 month) internships. I needed 5 co-op term credits for my degree, which I had already accumulated by 2022. I also needed to continue paying my rent and tuition, of course.
 
 #### b. Resources ####
 
+By 2022, I had one work term left in my term schedule, but since I had already earned the 5 co-op credits I needed, I could do what I liked with that four months from May to August between academic terms.
 
----
+Through UW's chapter of Engineers Without Borders (EWB), I had met a senior engineer named Raj Rajaram who inspired me to take action and ecouraged me to travel. He had put me in touch with some NGOs in education, women empowerment, and sustainability in north India, and I had invitations from those NGOs to learn from their work if I could get myself there. Check my other posts (coming soon) for the full story on how that came to be!
 
-
-1. [A destination where learning will be inevitable, and allies at that destination](#1-destination--allies) 
-
-2. [Funding](#2-finding-funding) 
-
-3. [To convince my parents to let me travel](#3-how-i-convinced-my-parents-to-let-me-travel) 
+So, I had a gap in time which I could use for this experience, I had a destination where learning will be inevitable, and I had some new allies at that destination who could help me find my way to achieving the impact I hope to achieve.
 
 
-### 1. Destination + Allies ###
+### 3. Methodically Remove Barriers ###
 
-I obtained a destination where learning will be inevitable and allies at that desination through "reaching out". I was authentic with my passions, told everyone I met about my aspirations, and **asked** for support. It can feel uncomfortable to ask for favours (such as introductions, a place to stay, etc.) but by being open, honest, vulnerable, and energetic I attracted support from profs, mentors, and extended network connections to find organizations and allies aligned with my goals and values.
+With ANY barrier, having [allies](#1-allies) -- people in any area of expertise who are willing to support your goals by helping you network, creating opportunities, teaching you what you don't know, etc -- makes overcoming a barrier a whole lot easier. A big lesson I've learned from my experiences is that our whole society is pretty much just *people doing things*, so if you can make friends with the right people, almost anything is possible. 
 
-Keep putting yourself out there, and be patient -- you will eventually bump into people with shared passions. Don't underestimate the power of a [friend-of-a-friend-of-a-friend-of-a-friend](https://science.howstuffworks.com/math-concepts/six-degrees-separation.htm){:target="_blank"}.  
+There were a few key barriers I had to overcome before I could make this dream of traveling, learning, and having a positive impact a reality: namely, getting the [financial resources](#2-finding-funding) to be able to afford a co-op term without a paid job, especially one abroad, and [convincing my parents to let me travel](#3-how-i-convinced-my-parents-to-let-me-travel). The latter is really about safety.
+
+### 1. Allies ###
+
+I gathered my allies by **reaching out**. I was authentic with my passions, told nearly everyone I met about my aspirations, and **asked** for support. It can feel uncomfortable to ask for favours (such as introductions, a place to stay, etc.) but by being open, honest, vulnerable, and energetic I attracted support from profs, mentors, and extended network connections to find organizations and allies aligned with my goals and values.
+
+By continually putting myself out there and being patient, I eventually bumped into people with shared passions. Don't underestimate the power of a [friend-of-a-friend-of-a-friend-of-a-friend](https://science.howstuffworks.com/math-concepts/six-degrees-separation.htm){:target="_blank"}.  
 
 **Follow up**, for real! If someone mentions a person, project, or organization that sounds interesting to me, I always ask for more information, and especially for an introduction. When a kind person makes an offer of support, and I can tell they genuinely mean it, I take them up on it with gratitude.  
  
-My mentor Stan says that enthusiastic youth have an extraordinary superpower: people are eager to help us out. It’s a trade, of sorts: we get help, and whoever helps us feels good about their contribution to guiding our life. If we can show our passion and energy, people will feel inspired and will be eager to guide us on a path they believe in. Our job is to keep in mind who we want to be and what impact we want to have, then lean into opportunities which aim us in that direction. 
+One of my previous co-op managers, Stan, says that enthusiastic youth have an extraordinary superpower: people are eager to help us out. It’s a trade, of sorts: we get help, and whoever helps us feels good about their contribution to guiding our life. If we can show our passion and energy, people feel inspired and are eager to guide us on a path they believe in. Our job is to keep in mind who we want to be and what impact we want to have, then lean into opportunities which aim us in that direction. 
 
-It's easier to find allies first, then let __who you meet__ shape __where you go__. 
+In the early idea stage when I didn't have any destination in mind for my adventure yet, just a vague sense that I wanted to learn, travel, and do something good, it was easier to find allies first, then let __who I met__ shape __where I went__ based on their connections and fields of expertise. 
 
-The more foreign my destination is compared to the familiar world I know, the more I learn about culture, language, and different approaches to solving problems. Getting out of my comfort zone is... well... uncomfortable, but every time I do, my comfort zone gets wider, and the incredible experiences that come with it make the initial discomfort well worth it. 
-
-By going someplace with high contrast to my home, I not only learned about the culture at my destination, but also learned about my home culture by seeing my own customs (which I previously took for granted as “just the way things are done”) stand out as foreign.  
-
-So, as you talk to people, mention that you’re trying to travel to someplace different from home so you can grow and learn as much as possible. You never know who will have contacts in exciting projects around the world. 
+So, when I would talk to people, I would mention that I was trying to travel to someplace different from home so I could grow and learn as much as possible. You never know who will have contacts in exciting projects around the world. 
 
 
 ### 2. Finding Funding ###
 
 Getting funding can be daunting to think about, but there is a lot of funding out there if you get involved in the right spaces. 
 
-You’ll need the money for your trip (flights, visa fees, travel insurance, immunizations, transportation, accommodations, food) and to acquire whatever additional resources you may need for your positive-impact project. (In my case, these were things such as an audio recorder and clip-on microphone to interview the Solar Mamas.) 
+I needed the money for my trip (flights, visa fees, travel insurance, immunizations, transportation, accommodations, food, water) and to acquire some additional resources I needed for my positive-impact project. (These were things such as an audio recorder and clip-on microphone to interview the Solar Mamas.) 
 
-If you're in school, the first place to look is for "international experience" **bursaries and scholarships** at your institution. Most require applications, but some of those applications are as simple as filling a few boxes with personal information to verify that you qualify.  
+Since I was in school, the first place I looked was for "international experience" **bursaries and scholarships** at my institution. Most required applications, but some of those applications were as simple as filling a few boxes with personal information to verify that I qualified.  
 
-These grants can help offset the cost of your trip, but may not cover it entirely. 
+The one grant I received helped offset the cost of my trip, but couldn't cover it entirely. 
 
-Since you're traveling to try and have an impact, look into **pitch competitions**, especially for social entrepreneurship. This is where I got the majority of my funding.  
+Since I trying to have an impact, someone I met at a networking breakfast suggested I look into **pitch competitions**, specifically one for social entrepreneurship. *(Social entrepreneurship means business for the purpose of having a positive impact on society or the environment.)* This is where I got the majority of my funding, through [GreenHouse at UWaterloo](https://uwaterloo.ca/united-college/greenhouse){:target="_blank"}!
 
-Some programs, like [GreenHouse at UWaterloo](https://uwaterloo.ca/united-college/greenhouse){:target="_blank"}, don’t require you to have any entrepreneurial experience or even any project ideas when you enroll, as they will teach and guide you during the program. Keep an eye out for programs like this at your own institutions! 
-
-Other financial sources include: 
+Other potential financial sources for your own adventure include: 
 
 * your own **savings** from working 
   - (such as through co-op/internships) 
@@ -129,24 +129,24 @@ Other financial sources include:
   - (I'm not personally experienced with this one, but there are plenty of other blogs out there to reference) 
 
 * **government volunteering programs** like the [International Youth Internship Program or Volunteer Cooperation Program](https://www.international.gc.ca/world-monde/study_work_travel-etude_travail_voyage/volunteer_internships-benevolat_stages.aspx?lang=eng){:target="_blank"} for Canadians.
-  - (With programs like these, you usually apply for specific postings, and may have less liberty to focus on your own project. This might be a good thing, if you would rather contribute to existing solutions instead of piloting your own.) 
+  - (With programs like these, you usually apply for specific postings, and may have less liberty to focus on your own project. This might be a good thing if you would rather contribute to existing solutions instead of piloting your own.) 
 
 * financial support from **family** 
-  - (if your parents have the capacity to support, ask! I'm not personally experienced with this situation, but I suspect it might make step 3 (“convince your parents to let you go”) more complicated -- I think it was easier to convince my parents I was responsible enough to go on the trip because I amassed the funding myself.) 
+  - (if your parents have the capacity to support, ask! I'm not personally experienced with this situation, but I suspect it might make it more complicated to convince your parents to let you travel -- I think it was easier to convince my parents I was responsible enough to go on the trip because I amassed the funding myself.) 
 
 ### 3. How I Convinced My Parents to Let Me Travel ###
 
 This section is really about safety.
 
-My parents were worried about me (a young woman) going alone to a foreign country, especially one where I would [so obviously be a foreigner](https://www.pinkcitypost.com/wp-content/uploads/2022/08/Youth-Day-Poornima-xlxl2kx2.jpg){:target="_blank"}. They were scared I would be a target to be taken advantage of, robbed, sexually harassed, kidnapped, or any of the other nightmarish worries parents have about their kids – not to mention that I’m deathly [allergic](https://foodallergycanada.ca/food-allergy-basics/food-allergies-101/what-are-food-allergies/){:target="_blank"} to dairy and lentils, two of the main dietary staples in India. 
+My parents were worried about me (a young woman) going alone to a foreign country, especially one where I would [so obviously be a foreigner](https://www.pinkcitypost.com/wp-content/uploads/2022/08/Youth-Day-Poornima-xlxl2kx2.jpg){:target="_blank"} with my pale skin and light hair. They were scared I would be a target to be taken advantage of, robbed, sexually harassed, kidnapped, or any of the other nightmarish worries parents have about their kids – not to mention that I’m deathly [allergic](https://foodallergycanada.ca/food-allergy-basics/food-allergies-101/what-are-food-allergies/){:target="_blank"} to dairy and lentils, two of the main dietary staples in India. 
 
 I won my parents’ blessing through organization and persistence, proving to them that I am thinking about what could go wrong and actively preparing for it. 
 
-These are some of the steps I took to convince my parents I would be ok in India: 
+These are some of the steps I took make sure I would be ok in India, and to convince my parents that I would be safe: 
 
   * Providing a detailed itinerary for my 2-month trip showing that I would never truly be alone, with addresses of my destinations, flight numbers, and other logistical details 
 
-  * Providing a spreadsheet of contact information of allies who will support me while I'm away and can come to my rescue if needed 
+  * Providing a spreadsheet of contact information of allies who will support me while I'm abroad and can come to my rescue if needed 
 
   * Making preparatory video calls between my parents and my allies so my parents could scope out the situation themselves and judge the character of the people I would be with 
 
@@ -158,11 +158,11 @@ These are some of the steps I took to convince my parents I would be ok in India
 
   * Always carrying a notebook with emergency contacts, in case my phone dies or breaks 
 
-  * Stocking up on extra-strong sunscreen 
+  * Stocking up on extra-strong sunscreen
 
   * Bringing a LifeStraw water filter attachment in my water bottle 
 
-  * Packing medications, including iron and B-12 supplements since I can’t have lentils or dairy which typically provide those nutrients to the population of Rajasthan, and Pepto-Bismol/ rehydration salts/antibiotics in case of traveler’s diarrhea 
+  * Packing medications, including iron and B-12 supplements since I can’t have lentils or dairy which typically provide those nutrients to the population of Rajasthan, and Pepto-Bismol, rehydration salts, and antibiotics in case of traveler’s diarrhea 
 
   * Bringing a stock of 6 EpiPens in heat-protective cases to save my life in case I’m accidentally exposed to one of my food allergies 
 
@@ -182,15 +182,19 @@ Me: “If I accidentally eat something I can’t, I’ll have 2 EpiPens on me at
 
 Me: “Ok, these evaporative cooling packs will prevent it from overheating, even if I have no access to electricity to cool ice packs.” 
 
+These steps don't eliminate all risk -- that's impossible -- but by being as prepared as possible I was able to cope a lot better with some situations I encountered while I was away from home.
+
 Whatever your loved ones' concerns are, listen to them! Your parents have probably heard of more atrocities in the world than you have, just by nature of being alive longer. Take their concerns seriously -- they are real possibilities. Take action to mitigate the risks, and then show them how you are taking responsibility for your safety. 
+
+Also... it helped to be determined (or "stubborn", as my brother likes to describe me) and continue to pursue my goals methodically. Over time, my parents warmed up to the idea, especially as they saw the steps I was taking to make it happen independently. They were certainly still worried about me, but I really appreciate that they trusted me and allowed this experience of my dreams.
 
 ### Other tips ###
 
-Here’s a list of documents, logistical tasks, and other tips you may need to prepare for your experience: 
+Here’s a list of documents, logistical tasks, and other tips you may find helpful to prepare for your adventure: 
 
 * **Passport** (valid for at least 6 months after your planned return date) 
 
-* **Visa** for the country you’re visiting (tourist/student/volunteering/working visa, depending on what you’ll be doing). START THIS APPLICATION EARLY!!! Give yourself at least a month more than you expect you’ll need in case of contingency like processing delays and complications. You might need the following for your visa application: 
+* **Visa** for the country you’re visiting (tourist/student/volunteering/working visa, depending on what you’ll be doing). START THIS APPLICATION EARLY!!! It took me two months longer than advertised because of processing delays and complications. You might need the following for your visa application: 
 
   - Letter of support/invitation from the organization you intend to volunteer for, stating the address you’ll be staying at, what you will be doing, and any accommodations or compensation they will provide for you 
 
@@ -220,14 +224,14 @@ Here’s a list of documents, logistical tasks, and other tips you may need to p
 
 * A **budget** spreadsheet for your trip/project (helpful for applying for funding and staying organized) 
 
-* Climate- and culture-appropriate **clothing**. Search up “packing list \<*your destination*\>” and read a few different lists to judge what else you will need to pack. Don’t forget items like an outlet adapter, a combination lock, and a waterproof bag (like a zipper seal bag) for important documents.
+* Climate- and culture-appropriate **clothing**. Search up “packing list \<*your destination*\>” and read a few different lists to judge what you will need to pack. Don’t forget items like an electric outlet adapter, a combination lock, and a waterproof bag (like a zipper seal bag) for important documents.
 
 * Exchange some **cash** into the currency of your destination before you leave home. 
 
-* Some countries require pristine (new/undamaged) **USD cash** to pay for entry on arrival. Research your destination, and bring some USD bills in excellent condition. The ATMs in the airport arrival don’t always work. Some borders are known to refuse USD bills if they are crinkled or torn even a little bit. 
+* Some countries require pristine (new/undamaged) **USD cash** to pay for entry on arrival. Research your destination, and bring some USD bills in excellent condition. The ATMs in the airport arrival area don’t always work. Some borders are known to refuse USD bills if they are crinkled or torn in the slightest. 
 
  
-### For University of Waterloo co-op students 
+### For University of Waterloo Co-op Students 
 
 One of the most common questions I get is how to make international volunteer experiences count for co-op credits at the University of Waterloo. 
 
