@@ -24,6 +24,6 @@ sidebar: []
 
 Thanks for visiting Adventure Engineering! 
 
-The site is currently under construction. The launch is expected before the end of April 2024. 
+The site is still under construction. As a challenge and to learn something new, I decided to build this website in Jekyll and GitHub pages, and I am still learning. Some parts of the user interface may be glitchy while I figure it out. Thanks for your patience!
 
-Take care!
+Take care.
