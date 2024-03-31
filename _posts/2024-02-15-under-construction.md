@@ -24,6 +24,6 @@ sidebar: []
 
 Thanks for visiting Adventure Engineering! 
 
-The site is currently under construction. The launch is expected before the end of February 2024. 
+The site is currently under construction. The launch is expected before the end of April 2024. 
 
 Take care!
