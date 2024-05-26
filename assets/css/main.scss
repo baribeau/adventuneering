@@ -24,16 +24,16 @@ $brand-colors: (
   vividskyblue: #46c5ea,
   celadon: #a3e0c3,
   mindaro: #e9f5a8,
-  rosered: #b9314f,
-  cerise: #ca536b,
-  rosepompadour: #e08d9a,
-  mistyrose: #f0d2d1,
+  goldengate: #E7480D,
+  giantsorange: #f86624,
+  coral: #FA814A,
+  atomictangerine: #FAA077,
 );
 
 $theme-name: "{{ site.theme_color }}";
 $brand-name: "{{ site.brand_color }}";
 $theme-color: map-get($theme-colors, "seasalt");
-$brand-color: map-get($brand-colors, "rosered");
+$brand-color: map-get($brand-colors, "goldengate");
 
 @if map-has-key($theme-colors, $theme-name) {
   $theme-color: map-get($theme-colors, $theme-name);
