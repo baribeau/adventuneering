@@ -267,7 +267,7 @@ click_to_top:
     background_color: seasalt
     color: dimgrey
   dark:
-    background_color: goldengate
+    background_color: giantsorange
     color: silver
 
 # Disqus comments

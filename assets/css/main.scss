@@ -33,7 +33,7 @@ $brand-colors: (
 $theme-name: "{{ site.theme_color }}";
 $brand-name: "{{ site.brand_color }}";
 $theme-color: map-get($theme-colors, "seasalt");
-$brand-color: map-get($brand-colors, "goldengate");
+$brand-color: map-get($brand-colors, "giantsorange");
 
 @if map-has-key($theme-colors, $theme-name) {
   $theme-color: map-get($theme-colors, $theme-name);
