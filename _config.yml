@@ -44,7 +44,7 @@ copyright: "Copyleft (cleft) {currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Adventure Engineering: a blog dedicated to sharing inspiring examples of sustainable innovation 
-  and resilient problem-solving, from anywhere in the world.
+  and resilient problem-solving from anywhere in the world.
 
 #baseurl: "/adventuneering" # the subpath of your site, e.g. /blog
 url: "https://baribeau.github.io" # the base hostname & protocol for your site, e.g. https://example.com
@@ -69,7 +69,7 @@ content_width: "920px"
 # enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
-sitemap: false
+sitemap: true
 
 # If you want to change site language, you can set lang option
 lang: "en"  # default lang is en
@@ -161,11 +161,11 @@ celadon: "#a3e0c3"
 teagreen: "#c2e9b6"
 mindaro: "#e9f5a8"
 
-# Gradient red-pinks
-rosered: "#b9314f"
-cerise: "#ca536b"
-rosepompadour: "#e08d9a"
-mistyrose: "#f0d2d1"
+# Gradient oranges
+goldengate: "#E7480D" #orange (dark)
+giantsorange: "#f86624" #orange (med)
+coral: "#FA814A" #orange (light)
+atomictangerine: "#FAA077" #orange (very light)
 
 # Accent colours if needed
 africanviolet: "#af8ccf" #purple (light)
@@ -173,12 +173,11 @@ tekhelet: "#4c2c69" #purple (dark)
 oxfordblue: "#102542" #blue (dark)
 darkgreen: "#002500" #green (dark)
 xanthous: "#fbb637" #yellow (med)
-giantsorange: "#f86624" #orange (med)
-coral: "#ff8361" #coral (light)
+rosered: "#b9314f" #pinkish-red (dark)
 
 # Colour settings
 theme_color: seasalt
-brand_color: rosered
+brand_color: goldengate
 
 
 # You can custom selection style
@@ -268,7 +267,7 @@ click_to_top:
     background_color: seasalt
     color: dimgrey
   dark:
-    background_color: cerise
+    background_color: giantsorange
     color: silver
 
 # Disqus comments
