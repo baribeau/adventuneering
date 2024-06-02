@@ -14,8 +14,8 @@ banner:
   background: "#000"
   height: "100vh"
   min_height: "100vh"
-  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
-  subheading_style: "color: gold"
+  heading_style: "font-size: calc(1em + 4vw); font-weight: bold; text-decoration: underline"
+  subheading_style: "font-weight: bold"
 tags: notice update site
 top: 1
 sidebar: []
