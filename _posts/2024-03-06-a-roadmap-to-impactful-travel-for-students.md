@@ -4,8 +4,9 @@ title: A roadmap to impactful travel for students
 subtitle: How to travel the world for a positive purpose
 author: Julia Baribeau
 categories: 
+excerpt_image: /assets/images/excerpts/oldtrike-excerpt.jpg
 banner:
-  image: ../assets/images/banners/oldtrike.jpg
+  image: /assets/images/banners/oldtrike.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"

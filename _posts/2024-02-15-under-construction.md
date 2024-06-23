@@ -4,12 +4,13 @@ title: Under construction
 subtitle: Exciting things are coming soon from Adventure Engineering.
 author: Julia Baribeau
 categories: notice
+excerpt-image: /assets/images/excerpts/dolphins-excerpt.jpg
 banner:
   video: 
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  image: /assets/images/banners/dolphins.jpeg
   opacity: 0.618
   background: "#000"
   height: "100vh"
