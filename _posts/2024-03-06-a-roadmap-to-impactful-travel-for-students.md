@@ -20,19 +20,40 @@ sidebar: []
 
 In 2022, I went from being a 21-year-old who had pretty much never left Canada to living full-time in a rural village in India for 2 months, working every day with a team of grandmother solar engineers whose languages I didn’t know. 
 
-The [Solar Mamas of Barefoot College](https://www.youtube.com/watch?v=6qqqVwM6bMM){:target="_blank"} taught me not only how to build a solar lantern but also how to express myself and create deep bonds of friendship without relying on spoken language. By the end of my two months working with them every day, it felt like some of these women were my sisters, despite us never having had a conversation. 
+The [Solar Mamas of Barefoot College](https://www.youtube.com/watch?v=6qqqVwM6bMM){:target="_blank"} taught me how to express myself and create deep bonds of friendship without relying on spoken language, as well as how to build a solar lantern. By the end of my two months working with them every day, these women were like my sisters, despite us never having had a conversation. 
 
-When I wasn’t in the solar workshop, I was in the plant nursery at [Barefoot College](https://www.barefootcollegetilonia.org/), learning the basics of organic agriculture from the five nursery staff, who also taught me beginner’s Hindi, a few words of Marwari, and some Yoga. One day when I had a cough and sore throat, Hanuman Ji (the kind, caring man in charge of the plant nursery) jogged through the rows of plants, plucked a handful of different medicinal leaves, and showed me how to boil them into a bitter tea which he had me drink every few hours. It helped. 
+![Eight women in traditional Rajasthani clothing gather around a long worktable with soldering irons and various other tools on it. A chalkboard and a series of posters on one wall describes lessons on electrical design.](/assets/images/india/solar_classroom.jpg "The solar classroom at barefoot college")
 
-I also spent some time with a different NGO named the [Sehgal Foundation](https://www.smsfoundation.org/), attending a field visit to the tiny village of Ghaghas, Haryana. Locals showed me their community radio station (critical for fighting misinformation and taboos as well as running remote classes during COVID-19) and their gorgeous elementary school, equipped with vibrant murals, clean water, and bathrooms. One thing I learned was that access to water and bathrooms is especially critical for improving girls’ education, because otherwise they must stay home when they get their period.  
+I would sit in on their lessons in the mornings, trying my best to understand what they were covering from context and diagrams, since I didn't know Hindi or Marwari. Thankfully, their textbooks were mostly visual, because the courses are designed for classes of women from all different countries and backgrounds, so a common language is usually a luxury out of reach. By the end of my two months there, I got comfortable communicating primarily through gestures, charades, context, and little hand drawings!
+
+With their picture instructions and some show-not-tell help from Master Trainer Magan Canwer Ji, I was able to solder together solar lanterns and charger controller circuits that worked! All the solar products assembled during training get shipped to Solar Mama graduates to supplement what they build in their home villages after returning home and setting up their workshop.
+
+When I wasn’t in the solar workshop, I was in the plant nursery at [Barefoot College](https://www.barefootcollegetilonia.org/). It was there I learned the basics of organic agriculture from the five nursery staff and especially Hanuman Ji, the caring man in charge of the plant nursery who spoke a little English. 
+
+Every morning before heading to the Solar Workshop, I would meet Hanuman Ji in the nursery at 8 am and he would teach me Yoga. Every afternoon, we would sit in the garden of the plant nursery sipping sweet lemongrass tea and he would teach me the medicinal properties of a new plant, or a few words of  Hindi or Marwari. 
+
+He took very good care of me. One day when I had a cough and sore throat, he jogged through the rows of plants, plucked a handful of different medicinal leaves, and showed me how to boil them into a bitter tea which he had me drink every few hours. 
+
+After I acquired some Rajasthani clothing, Hanuman Ji took me to his village in the evening to meet his family and his cattle. I came to appreciate children and how quickly they adapted to my language barrier! I could connect so easily with the children, especially those who didn't know how to speak yet, by playing tag, dancing, and making up games. The older kids taught me a bit of a typical wedding dance, and in exchange I showed them some basic Kung Fu! 
+
+![Three women squat down near dozens of seedlings in pots in a garden.](/assets/images/india/seedlings_nursery.jpg "Tending seedlings with Manibar Ji and Gyaana Ji in the nursery.")
+
+I also spent some time with a different NGO named the [Sehgal Foundation](https://www.smsfoundation.org/), attending a field visit to the tiny village of Ghaghas, Haryana. Locals showed me their community radio station (critical for fighting misinformation and taboos as well as running remote classes during COVID-19) and their elementary school, equipped with vibrant murals, clean water, and bathrooms. One thing I learned was that access to running water in bathrooms is especially critical for improving girls’ education, because otherwise they must stay home when they get their period because they don't have access to sanitation.
+
+![Lush trees surround an open courtyard enclosed by a brick school painted in colourful educational murals.](/assets/images/india/lush_schoolyard.JPG "The lush schoolyard in Ghaghas")
+![A geometry mural in Hindi and English showing the types of angles and triangles, and the names of shapes and figures.](/assets/images/india/geometry_mural.JPG "One of the many murals painted on the school in Ghaghas")
 
 In New Delhi, the largest city I had ever been in, I met with a lady named Sampada from the [Indo-Universal Collaboration for Engineering Education (IUCEE)](https://iucee.org/), an organization encouraging young people to create impactful projects in their communities. She became one of my closest allies in India, not only encouraging my work and inviting me as a guest speaker at academic events, but also taking me in like one of her children and teaching me how to play Indian board games with her family. 
+
+![Julia Baribeau and Sampada Pachaury hugging.](/assets/images/india/sampada_julia.jpg "Sampada and Julia")
 
 The experiences I had in India unlocked a whole new perspective on the world, as well as a fierce love for travel which has taken me to 14+ different countries since then. The connections I made with delightful people have stayed with me, and continue to provide joy and open doors in my life to this day. 
 
 I wrote this post to answer the most common question I get from my fellow young people when I tell my stories: **"how do I make something like that happen in my life too?"**
 
 By explaining my own journey, I hope to provide a roadmap for other students to create opportunities of their own.
+
+<img src="/assets/images/Infographics/roadmap-large.png" alt="A roadmap infographic illustrating the section headers below." title="Roadmap">
 
 ### How to travel the world as a uni student -- and have a positive impact while doing it ###
 
@@ -62,6 +83,8 @@ For me, travel is education. By setting up experiences to immerse myself in unfa
 The more foreign my destination is compared to the familiar world I know, the more I learn about culture, language, and different approaches to solving problems. Getting out of my comfort zone is... well... uncomfortable, but every time I do, my comfort zone gets wider, and the incredible experiences that come with it make the initial discomfort well worth it. 
 
 By going someplace with high contrast to my home, I not only learn about the culture at my destination, but also learn about my home culture by seeing my own customs (which I previously took for granted as “just the way things are done”) stand out as foreign.  
+
+![Julia standing between the Canadian flag and the Indian flag at the Shastri Indo-Canadian Institute in Delhi.](/assets/images/india/shastri_indo_canadian.jpg "At the Shastri Indo-Canadian Institute")
 
 I set out to travel because I wanted to better understand how the world really works. Along with this understanding, I wanted to augment my engineering education with examples of real-world designs and creative solutions from diverse cultures and countries. Equipped with that knowledge, I will better be able to come up with high-quality, sustainable solutions to problems I face in my life and my career.  
 
@@ -121,6 +144,8 @@ The one grant I received helped offset the cost of my trip, but couldn't cover i
 
 Since I trying to have an impact, someone I met at a networking breakfast suggested I look into **pitch competitions**, specifically one for social entrepreneurship. *(Social entrepreneurship means business for the purpose of having a positive impact on society or the environment.)* This is where I got the majority of my funding, through [GreenHouse at UWaterloo](https://uwaterloo.ca/united-college/greenhouse){:target="_blank"}!
 
+![Three women holding a large yellow sign saying "A Barefoot Solution To The Water Crisis - Congratulations being awarded The Social Impact Fund](/assets/images/india/sif_barefoot.jpg "Receiving the Social Impact Fund from GreenHouse")
+
 Other potential financial sources for your own adventure include: 
 
 * your own **savings** from working 
@@ -133,13 +158,13 @@ Other potential financial sources for your own adventure include:
   - (With programs like these, you usually apply for specific postings, and may have less liberty to focus on your own project. This might be a good thing if you would rather contribute to existing solutions instead of piloting your own.) 
 
 * financial support from **family** 
-  - (if your parents have the capacity to support, ask! I'm not personally experienced with this situation, but I suspect it might make it more complicated to convince your parents to let you travel -- I think it was easier to convince my parents I was responsible enough to go on the trip because I amassed the funding myself.) 
+  - (if your parents have the capacity to support, ask! I suspect relying on your parents for funding might make it more complicated to convince your parents to let you travel -- I think it was easier to convince my parents I was responsible enough to go on the trip because I amassed the funding myself.) 
 
-### 3. How I Convinced My Parents to Let Me Travel ###
+### 3. How I Convinced My Parents to Be Ok With Me Traveling ###
 
 This section is really about safety.
 
-My parents were worried about me (a young woman) going alone to a foreign country, especially one where I would [so obviously be a foreigner](https://www.pinkcitypost.com/wp-content/uploads/2022/08/Youth-Day-Poornima-xlxl2kx2.jpg){:target="_blank"} with my pale skin and light hair. They were scared I would be a target to be taken advantage of, robbed, sexually harassed, kidnapped, or any of the other nightmarish worries parents have about their kids – not to mention that I’m deathly [allergic](https://foodallergycanada.ca/food-allergy-basics/food-allergies-101/what-are-food-allergies/){:target="_blank"} to dairy and lentils, two of the main dietary staples in India. 
+My parents were worried about me (a young woman) going alone to a foreign country, especially one where I would [so obviously be a foreigner](https://www.pinkcitypost.com/wp-content/uploads/2022/08/Youth-Day-Poornima-xlxl2kx2.jpg){:target="_blank"} with my pale skin and light hair. They were scared I would be a target to be taken advantage of, robbed, sexually harassed, kidnapped, or any of the other nightmarish worries parents have about their kids – not to mention that I’m deathly allergic to dairy and lentils, two of the main dietary staples in India. 
 
 I won my parents’ blessing through organization and persistence, proving to them that I am thinking about what could go wrong and actively preparing for it. 
 
