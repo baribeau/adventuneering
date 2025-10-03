@@ -24,7 +24,7 @@ I've realized (and it has been pointed out to me by some very close friends) tha
 
 I feel some self-resentment when I don't perceive that I'm living up to my standards, especially when it comes to being everything and doing everything that the people I love ask from me. For most of my life, my subconscious remedy to this feeling has been to try harder, be busier, and therefore be better.
 
-But I'm reaching a saturation point point in my life. The toll of mainting my mind's impossibly perfect standards for myself is manifesting in my body's health, my mental state, and my ability to keep up with it all.
+But I'm reaching a saturation point point in my life. The toll of maintaining my mind's impossibly perfect standards for myself is manifesting in my body's health, my mental state, and my ability to keep up with it all.
 
 For a while I thought the solution was to commit less and cancel plans in order to reclaim some semblance of stillness and balance in my life, but that didn't seem to work. No matter all the things I cancelled, other things somehow popped up in their place that I was eager to contribute to or get involved with, and I remain perpetually busy and a bit overwhelmed at all times.
 
