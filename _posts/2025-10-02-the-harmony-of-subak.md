@@ -13,7 +13,7 @@ banner:
   min_height: "100vh"
   heading_style: "font-size: calc(1em + 4vw); font-weight: bold; text-decoration: underline"
   subheading_style: "font-weight:bold"
-tags: travel impact how-to
+tags: travel impact indonesia
 top: 1
 sidebar: []
 ---
