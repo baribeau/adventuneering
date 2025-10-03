@@ -208,3 +208,5 @@ This theme is licensed under the [MIT license](https://opensource.org/licenses/m
 
 
 Note to self on how to implement lazy loading: https://imagekit.io/blog/lazy-loading-images-complete-guide/
+
+Julia! If you're revisiting this project after a long time, do all your edits on main, do "bundle exec jekyll serve" to check on localhost, then when satisfied, commit, checkout gh-pages, merge main, push, then checkout main again for more edits.
