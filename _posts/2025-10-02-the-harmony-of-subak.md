@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The harmony of Subak
+title: The Harmony of Subak
 subtitle: Sustainable agriculture in Bali
 author: Julia Baribeau
 categories: 
