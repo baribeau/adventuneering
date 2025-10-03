@@ -1,0 +1,69 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// Default theme colors
+$theme-colors: (
+  //"coolblack": #090a0b,
+  //"spacegrey": #353535,
+  //"snowwhite": #ffffff,
+  richblack: #020404,
+  eerieblack: #1c2121,
+  gunmetal: #394141,
+  dimgrey: #687575,
+  silver: #afb7b7,
+  seasalt: #f6f8f8,
+);
+
+// Default brand colors
+$brand-colors: (
+  //"orangered": #ff5100,
+  //"greatgold": #f2cb05,
+  //"greenblue": #389092,
+  cerulean: #2b778c,
+  vividskyblue: #46c5ea,
+  celadon: #a3e0c3,
+  mindaro: #e9f5a8,
+  goldengate: #E7480D,
+  giantsorange: #f86624,
+  coral: #FA814A,
+  atomictangerine: #FAA077,
+);
+
+$theme-name: "{{ site.theme_color }}";
+$brand-name: "{{ site.brand_color }}";
+$theme-color: map-get($theme-colors, "seasalt");
+$brand-color: map-get($brand-colors, "giantsorange");
+
+@if map-has-key($theme-colors, $theme-name) {
+  $theme-color: map-get($theme-colors, $theme-name);
+} @else if str-index($theme-name, "#") == 1 {
+  $theme-color: {{ site.theme_color | default: '#f6f8f8' }};
+}
+
+@if map-has-key($brand-colors, $brand-name) {
+  $brand-color: map-get($brand-colors, $brand-name);
+} @else if str-index($brand-name, "#") == 1 {
+  $brand-color: {{ site.brand_color | default: '#b9314f' }};
+}
+
+$content-width: {{ site.content_width | default: '920px' }};
+
+// Click to top theme
+$click-to-top-light-background-color: {{ site.click_to_top.light.background_color | default: "#f6f8f8" }};
+$click-to-top-light-color: {{ site.click_to_top.light.color | default: "#394141" }};
+$click-to-top-dark-background-color: {{ site.click_to_top.dark.background_color | default: "#394141" }};
+$click-to-top-dark-color: {{ site.click_to_top.dark.color | default: "#afb7b7" }};
+
+// Selection styles
+$selection-color: unquote("{{ site.selection.color }}");
+$selection-background-color: unquote("{{ site.selection.background_color }}");
+
+@if $selection-color == "" {
+  $selection-color: inherit;
+}
+@if $selection-background-color == "" {
+  $selection-background-color: rgba(invert($brand-color), 0.3);
+}
+
+@import "yat";
